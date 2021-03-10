@@ -9,5 +9,5 @@ reB :: Nota
 reB = DoS
 
 -- Una expresión que no tiene valor, que en cómputo no puedo determinar qué objeto denota.
-indef :: Nota
+indef :: Nota2
 indef = indef
